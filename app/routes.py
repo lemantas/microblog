@@ -8,11 +8,11 @@ def index():
 	user = {'username': 'Mantas'}
 	posts = [
 		{
-			'author': {'username': 'John'},
-			'body': 'Beautiful day in Portland!'
+			'author': {'username': 'Marsietis'},
+			'body': 'Beautiful day in Siauliai!'
 		},
 		{
-			'author': {'username': 'Susan'},
+			'author': {'username': 'Rokysas'},
 			'body': 'The Avengers movie was so cool!'
 		}
 	]
