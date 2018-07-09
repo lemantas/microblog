@@ -3,3 +3,4 @@ __pycache__*
 *.swp
 **/__pycache__
 __pycache__
+venv/*
